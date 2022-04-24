@@ -1,0 +1,93 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    color: #2262C6;
+    font-size: 40px;
+    line-height: 40px;
+    margin-left: 100px;
+}
+
+.search i {
+    margin-right: 20px;
+}
+
+#search-box {
+    border-radius: 50px;
+}
+
+.acc {
+    display: flex;
+    justify-content: space-between;
+    list-style: None;
+    margin-right: 100px;
+    margin-bottom: 0px;
+}
+
+.acc li {
+    padding: 8px 10px;
+}
+
+.acc a {
+    color: white;
+    width: 230px;
+    height: 50px;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.lower {
+    width: 100%;
+}
+
+.left {
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: #2262C6;
+    list-style: None;
+    border-top-right-radius: 100px;
+    text-align: center;
+    padding-top: 116px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+.left li {
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+.left li a {
+    width: 100%;
+    color: white;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+.left li a:hover {
+    width: 100%;
+    background-color: #C5DCFA;
+    padding: 10px 90px;
+    /*    클릭하면 hover할때의 백그라운드컬러 + 폰트 메인컬러로 바꿔야함 */
+}
+
+.right {
+    width: 80%;
+    float: right;
+}

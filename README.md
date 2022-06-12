@@ -5,7 +5,7 @@
 * Paper : [A Stock trend Prediction based on Explainable Artificial Intelligence](https://www.koreascience.or.kr/article/CFKO202133648830923.page)
 * Tech Stacks : django, scikit-learn, xai, html, scrapy, beautiful-soup, mongodb, mysql, nlp
 * Tools : figma, pycharm, git, jupyter-notebook, aws-ec2
-
+* 프로그램 작동 동영상 : [YouTube Link](https://youtu.be/DE5gPhmNIAs)
 <br/>
 
 ## 📖 상세 내용

@@ -8,6 +8,23 @@
 * 프로그램 작동 동영상 : [YouTube Link](https://youtu.be/DE5gPhmNIAs)
 <br/>
 
+## 🌱  팀원 소개
+
+정수민|김지현|이연수|조설아|안정은|
+:-:|:-:|:-:|:-:|:-:
+<img src='https://avatars.githubusercontent.com/u/83483431?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/54613024?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/80117053?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/90924434?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/80569863?v=4' height=80 width=80px></img>|
+[Github](https://github.com/jasmine00716)|[Github](https://github.com/hijyun)|[Github](https://github.com/yeondu)|[Github](https://github.com/jarammm)|[Github](https://github.com/Ahn-jeongeun)
+
+### Contribution  
+
+* `정수민` &nbsp; : &nbsp; 팀장 • 프로젝트 관리 • 주가 데이터 수집 및 저장 • 주가 전망 예측 실험 및 논문 작성 • 서버 담당 <br>
+* `김지현` &nbsp; : &nbsp; 뉴스 데이터 수집 및 저장 • 주감성 분석 • 주주가 전망 예측 실험 및 논문 작성(1저자) • 프로젝트 배포 <br>
+* `이연수` &nbsp; : &nbsp; 프론트엔드 + 백엔드 전반 • 주가 전망 예측 실험 및 논문 작성 <br>
+* `조설아` &nbsp; : &nbsp; 뉴스 데이터 수집 및 저장 • 주가 전망 예측 실험 및 논문 작성 • 프론트(베이스) <br>
+* `안정은` &nbsp; : &nbsp; 주가 전망 예측 실험 및 논문 작성 <br>
+
+<br>
+
 ## 📖 상세 내용
 
 ![동학개미 소개](https://user-images.githubusercontent.com/90924434/173228452-0d7140c8-72cd-4f19-9bdc-307c559b36a0.png)
@@ -33,16 +50,6 @@
 - html, css
 - scrapy, beautifulsoup, konlpy, nltk
 - Aws - ec2, apache2
-
-<br/>
-
-## 🌱  역할 분배
-
-- **정수민** : 팀장, 프로젝트 관리, 주가 데이터 수집 및 저장, 주가 전망 예측 실험 및 논문 작성, 서버 담당
-- **김지현** : 뉴스 데이터 수집 및 저장, 감성 분석, 주가 전망 예측 실험 및 논문 작성(1저자), 프로젝트 배포
-- **이연수** : 프론트엔드 + 백엔드 전반, 주가 전망 예측 실험 및 논문 작성
-- **조설아** : 뉴스 데이터 수집 및 저장, 주가 전망 예측 실험 및 논문 작성, 프론트(베이스)
-- **안정은** : 주가 전망 예측 실험 및 논문 작성
 
 <br/>
 
